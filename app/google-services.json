@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1043666570348",
+    "firebase_url": "https://virtualtimecapsule-815b7.firebaseio.com",
+    "project_id": "virtualtimecapsule-815b7",
+    "storage_bucket": "virtualtimecapsule-815b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043666570348:android:3a8792efbb1a5556",
+        "android_client_info": {
+          "package_name": "com.example.barir.virtualtimecapsule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043666570348-pcud615v923k606df7g8npqb8cts3go1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barir.virtualtimecapsule",
+            "certificate_hash": "1f5539d28f987349cd10c0a72050ce8962511206"
+          }
+        },
+        {
+          "client_id": "1043666570348-26rflci3p32amhdogtusft5vmjrjddsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFzei5eyNUVyPEAAM5HPKRcJvFVtWbhRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043666570348-26rflci3p32amhdogtusft5vmjrjddsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043666570348:android:1ce074c626dd52d3",
+        "android_client_info": {
+          "package_name": "com.example.barir.virtualtimecapsule1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043666570348-gdvp2stk30d3dq1chfgm8emgc7rinp4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barir.virtualtimecapsule1",
+            "certificate_hash": "1f5539d28f987349cd10c0a72050ce8962511206"
+          }
+        },
+        {
+          "client_id": "1043666570348-26rflci3p32amhdogtusft5vmjrjddsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFzei5eyNUVyPEAAM5HPKRcJvFVtWbhRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043666570348-26rflci3p32amhdogtusft5vmjrjddsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
